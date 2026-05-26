@@ -1,0 +1,11 @@
+langchain==0.3.25
+langchain-community==0.3.23
+langchain-ollama==0.3.2
+pymupdf>=1.25.0
+sentence-transformers>=3.3.0
+chromadb>=0.6.0
+ragas>=0.2.0
+datasets>=3.0.0
+streamlit>=1.40.0
+pandas>=2.2.3
+tqdm>=4.66.5
