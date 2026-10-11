@@ -1,6 +1,6 @@
 # 🏦 GenAI Financial Research Assistant
 
-An end-to-end Generative AI system that reads 5 years of annual financial reports (10-K filings) and answers natural language questions about them — with cited sources, measurable accuracy scores, and a full evaluation suite.
+An end-to-end Generative AI RAG system that reads 5 years of annual financial reports (10-K filings) and answers natural language questions about them — with cited sources, measurable accuracy scores, and a full evaluation suite.
 
 ---
 
